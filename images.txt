@@ -1,2 +1,2 @@
 searxng/searxng:latest
-clash-premium:latest
+dreamacro/clash-premium:latest
