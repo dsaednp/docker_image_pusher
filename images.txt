@@ -1,1 +1,2 @@
 searxng/searxng:latest
+clash-premium:latest
