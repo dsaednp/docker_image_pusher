@@ -1,2 +1,3 @@
 searxng/searxng:latest
 dreamacro/clash-premium:latest
+flexget/flexget:latest
