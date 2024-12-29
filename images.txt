@@ -1,3 +1,4 @@
 searxng/searxng:latest
 dreamacro/clash-premium:latest
 flexget/flexget:latest
+cloudnas/clouddrive2:lastest
