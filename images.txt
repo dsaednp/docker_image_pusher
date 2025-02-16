@@ -4,3 +4,4 @@ flexget/flexget:latest
 cloudnas/clouddrive2
 iyuucn/iyuuplus:latest
 rockchin/langbot:latest
+library/elasticsearch:8.11.3
