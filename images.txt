@@ -5,4 +5,4 @@ cloudnas/clouddrive2
 iyuucn/iyuuplus:latest
 rockchin/langbot:latest
 library/elasticsearch:8.11.3
-jeessy2/ddns-go:latest
+jeessy/ddns-go:latest
