@@ -14,3 +14,4 @@ seafileltd/seasearch:latest
 vaultwarden/server:latest
 liwei2633/gopeed:latest
 jesec/flood:latest
+linuxserver/transmission:4.0.5
