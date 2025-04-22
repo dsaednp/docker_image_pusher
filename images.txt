@@ -4,3 +4,8 @@ flexget/flexget:latest
 iyuucn/iyuuplus:latest
 jeessy/ddns-go:latest
 advplyr/audiobookshelf:latest
+seafileltd/seafile-pro-mc:12.0-latest
+mariadb:10.11
+memcached:1.6.29
+elasticsearch:8.15.0
+lucaslorentz/caddy-docker-proxy:2.9-alpine
