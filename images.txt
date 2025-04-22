@@ -12,3 +12,5 @@ seafileltd/sdoc-server:1.0-latest
 seafileltd/notification-server:12.0-latest
 seafileltd/seasearch:latest
 vaultwarden/server:latest
+liwei2633/gopeed:latest
+
