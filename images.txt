@@ -8,7 +8,7 @@ seafileltd/seafile-pro-mc:12.0-latest
 mariadb:10.11
 memcached:1.6.29
 elasticsearch:8.15.0
-lucaslorentz/caddy-docker-proxy:2.9-alpine
 seafileltd/sdoc-server:1.0-latest
 seafileltd/notification-server:12.0-latest
 seafileltd/seasearch:latest
+vaultwarden/server:latest
