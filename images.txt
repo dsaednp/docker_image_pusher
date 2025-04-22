@@ -11,4 +11,4 @@ elasticsearch:8.15.0
 lucaslorentz/caddy-docker-proxy:2.9-alpine
 seafileltd/sdoc-server:1.0-latest
 seafileltd/notification-server:12.0-latest
-seafileltd/seasearch:latest/ima
+seafileltd/seasearch:latest
