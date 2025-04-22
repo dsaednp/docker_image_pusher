@@ -1,7 +1,7 @@
 searxng/searxng:latest
 dreamacro/clash-premium:latest
 flexget/flexget:latest
-iyuucn/iyuuplus:latest
+iyuucn/iyuuplus-dev:latest
 jeessy/ddns-go:latest
 advplyr/audiobookshelf:latest
 seafileltd/seafile-pro-mc:12.0-latest
