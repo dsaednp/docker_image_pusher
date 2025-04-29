@@ -16,3 +16,4 @@ liwei2633/gopeed:latest
 jesec/flood:latest
 linuxserver/transmission:4.0.5
 ghcr.io/diygod/rsshub
+docker.n8n.io/n8nio/n8n:latest
