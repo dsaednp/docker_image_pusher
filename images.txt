@@ -4,13 +4,6 @@ flexget/flexget:latest
 iyuucn/iyuuplus-dev:latest
 jeessy/ddns-go:latest
 advplyr/audiobookshelf:latest
-seafileltd/seafile-pro-mc:12.0-latest
-mariadb:10.11
-memcached:1.6.29
-elasticsearch:8.15.0
-seafileltd/sdoc-server:1.0-latest
-seafileltd/notification-server:12.0-latest
-seafileltd/seasearch:latest
 vaultwarden/server:latest
 liwei2633/gopeed:latest
 jesec/flood:latest
