@@ -11,3 +11,7 @@ linuxserver/transmission:4.0.5
 ghcr.io/diygod/rsshub
 docker.n8n.io/n8nio/n8n:latest
 ghcr.io/haishanh/yacd:master
+glanceapp/glance:latest
+jellyfin/jellyfin:latest
+wcjiang/reference:latest
+portainer/portainer-ce:latest
