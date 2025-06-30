@@ -15,3 +15,4 @@ glanceapp/glance:latest
 jellyfin/jellyfin:latest
 wcjiang/reference:latest
 portainer/portainer-ce:latest
+ghcr.io/fuzzygrim/yamtrack:latest
