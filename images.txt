@@ -1,5 +1,5 @@
 searxng/searxng:latest
-ghcr.io/azicen/clash-verge-rev:latest
+metacubex/mihomo:latest
 dreamacro/clash-premium:latest
 flexget/flexget:latest
 iyuucn/iyuuplus-dev:latest
