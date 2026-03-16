@@ -16,5 +16,5 @@ glanceapp/glance:latest
 jellyfin/jellyfin:latest
 wcjiang/reference:latest
 portainer/portainer-ce:latest
-ghcr.io/harborguard/harborguard:latest
 linmax/read:latest
+getwud/wud:latest
